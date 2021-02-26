@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "485391977793",
+    "project_id": "chaataapp",
+    "storage_bucket": "chaataapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:485391977793:android:59edba79828ea2440965c0",
+        "android_client_info": {
+          "package_name": "com.example.chaat_aapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "485391977793-n9spqmgelta14amsc8hm29gcgi7ga6j7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0rd_XkpD_B7jO9cGy3MtSWtKCpIZa5xM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "485391977793-n9spqmgelta14amsc8hm29gcgi7ga6j7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
